@@ -6,3 +6,4 @@ console.log("get lost")
 console.log("get lost")
 console.log("get lost")
 
+console.log("new console")
